@@ -1,0 +1,7 @@
+site_name: Test API
+theme: readthedocs
+pages:
+- ['index.md', 'Introduction']
+- ['testing/initial-test.md', 'User Guide', 'Creating a new Mashmallow project']
+- ['testing/other-test.md', 'User Guide', 'Mashmallow API guide']
+- ['about/license.md', 'About', 'License']
