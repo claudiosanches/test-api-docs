@@ -2,5 +2,8 @@
   "name": "test-api-docs",
   "config": {
     "wp_org_slug": "test-api-docs"
+  },
+  "scripts": {
+    "build": "zip -r test-api-docs.zip *"
   }
 }
